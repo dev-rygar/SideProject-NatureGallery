@@ -1,0 +1,3 @@
+Copyright Disclaimer
+
+The content within this repository is for educational purposes only. No copyright infringement is intended. The designs and code are a study and homage to the original works and are not meant for commercial use. If you are the rightful owner of any content included in this repository and believe that your copyright has been infringed upon, please contact me at johngarry.tan@gmail.com for content removal or to discuss licensing options. I aim to respect the creative work of others and will promptly address any copyright concerns.
